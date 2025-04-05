@@ -1,0 +1,48 @@
+body {
+    background-color: gainsboro;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    line-height: 12px;
+    padding: 9px;
+    border-radius: 11px;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%);
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+    border: 2px solid rgb(28, 110, 164);
+    display: inline-block;
+}
+
+
